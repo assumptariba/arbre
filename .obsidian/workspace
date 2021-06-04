@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "6a8903210cd54644",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d246fee7c771eac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09eabf241017fd33",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f790f5eb6dfab6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c275d7c5d05e4af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e539ed899382c785",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fced2d3dd54d9593",
+    "type": "split",
+    "children": [
+      {
+        "id": "f00025733ec46906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b0c632acc26ac9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d246fee7c771eac",
+  "lastOpenFiles": [
+    "index.md",
+    "faq.md",
+    "static/1. Persones/Assumpta Riba Samarra.md"
+  ]
+}
