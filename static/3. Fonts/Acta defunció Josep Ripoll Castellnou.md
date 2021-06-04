@@ -1,0 +1,3 @@
+# Referències rellevants
+# Anècdotes
+# Dubtes
